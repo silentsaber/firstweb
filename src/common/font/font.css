@@ -1,0 +1,27 @@
+/* //Highlight LET Plain1.0 */
+
+@font-face {  
+    font-family: 'Highlightx';  
+    src: url('Highlightx.ttf'); 
+    font-weight: normal;  
+    font-style: normal;  
+  }
+  @font-face {  
+    font-family: 'Balonb';  
+    src: url('Balonb.ttf'); 
+    font-weight: normal;  
+    font-style: normal;  
+  }  
+  /* academy engraved  */
+  @font-face {  
+    font-family: 'academy';  
+    src: url('academy.ttf'); 
+    font-weight: normal;  
+    font-style: normal;  
+  }  
+  @font-face {  
+    font-family: 'kuhei';  
+    src: url('kuheix.ttf'); 
+    font-weight: normal;  
+    font-style: normal;  
+  }  
